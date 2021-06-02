@@ -10,4 +10,4 @@ It displays a graphical distribution of the content present in the directory pro
 5 - Actual graph shows distribution of the contents actually present in diretory. (on the basis of their extensions).
 
 ------------------------------------------------------------------------------------------------------------
-# Thank you.
+thank you-

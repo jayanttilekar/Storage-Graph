@@ -1,5 +1,5 @@
 # Storage-Graph
-It displays a graphical distribution of the content present in the directory provided by the user
+It is a stand alone Java application that displays a pie chart of the content present in the directory provided by the user.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 # Usage

@@ -3,7 +3,7 @@ It is a stand alone Java application that displays a pie chart of the content pr
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-### Usage
+# Usage
 1 - U can directly execute the .jar file in " Test3/dist/Test3.jar " to run the project.
 
 2 - After running it, enter a valid directory(path) present in your system of which you want to see the graphical representation of contents in it.
@@ -24,3 +24,4 @@ It is a stand alone Java application that displays a pie chart of the content pr
 " Test3\dist\lib "
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+v
